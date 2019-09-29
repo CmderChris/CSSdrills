@@ -1,0 +1,12 @@
+body {
+    font-family: Raleway, sans-serif;
+    background-color: rgb(163, 163, 163)
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+
+}
