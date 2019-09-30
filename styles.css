@@ -17,8 +17,29 @@ a:hover {
 }
 
 .boxes {
-    margin: 1em;
-    padding: 1em;
+    margin: 10px;
+    padding: 5px;
     border: 1px solid orange;
     display: block;
+    background-color: rgb(74, 156, 58);
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: pink;
+    margin-left: 430px;
+}
+
+.original {
+    color: rgb(77, 77, 170);
+}
+
+.additional {
+    color: aquamarine;
+}
+
+#one {
+    color: red;
 }
