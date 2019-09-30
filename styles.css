@@ -19,5 +19,6 @@ a:hover {
 .boxes {
     margin: 1em;
     padding: 1em;
-    border-style: solid; border-color: orange;
+    border: 1px solid orange;
+    display: block;
 }
